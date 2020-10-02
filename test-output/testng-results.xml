@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33470" started-at="2020-10-01T14:30:47Z" finished-at="2020-10-01T14:31:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33470" started-at="2020-10-01T14:30:47Z" finished-at="2020-10-01T14:31:20Z">
+      <class name="com.mytest.webscraping.OracleCreateAccount">
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.mytest.webscraping.OracleCreateAccount@3745e5c6]" name="testMethod" duration-ms="33458" started-at="2020-10-01T20:00:47Z" finished-at="2020-10-01T20:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- com.mytest.webscraping.OracleCreateAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
